@@ -210,12 +210,14 @@ aside ul {
   min-height: 310px;
 
   overflow-y: scroll;
+
+  
 }
 
 .expense {
   display: flex;
   align-items: center;
-  height: 38px;
+  /*height: 38px;*/
 }
 
 .expense img:first-child {
